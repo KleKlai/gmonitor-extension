@@ -1,0 +1,9 @@
+.search-icon, .add-icon, .arrow-left, .send-icon {
+    width: 15px;
+    height: 15px;
+}
+
+.class-item {
+    background-color: #1F3BB3;
+    color: #fff;
+}

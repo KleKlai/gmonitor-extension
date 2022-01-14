@@ -1,0 +1,23 @@
+.alert-icon {
+    width: 20px;
+    height: 20px;
+    position: relative;
+    top: 3px;
+    margin-right: 5px;
+}
+
+.check-icon {
+    width: 15px;
+    height: 15px;
+}
+
+.blue-word {
+    color: #1F3BB3;
+    font-weight: bold;
+}
+
+.message-options {
+    background-color: #1F3BB3;
+    width: 208px;
+    top: -106px;
+}

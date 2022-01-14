@@ -1,0 +1,17 @@
+{
+    "name": "Capstone App",
+    "description": "Maynard Magallen capstone app",
+    "version": "1.0",
+    "manifest_version": 3,
+    "background": {
+        "service_worker": "background.js"
+    },
+    "action": {
+        "default_title": "Maynard Magallen capston app",
+        "default_popup": "/welcome/welcome.html"
+    },
+    "permissions": [
+        "storage",
+        "notifications"
+    ]
+}
